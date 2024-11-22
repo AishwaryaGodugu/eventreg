@@ -25,7 +25,7 @@ public class SimplePrimeNumber {
 
         // Output the result
         if (isPrime && num > 1) {
-            System.out.println(num + " is a prime number.");
+            System.out.println(num);
         } else {
             System.out.println(num + " is not a prime number.");
         }
